@@ -40,3 +40,11 @@ Az alábbi képek a játék néhány fontosabb állapotát mutatják be: a hajó
 
 
 <img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_1.png" width="600" height="365">
+
+<img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_2.png" width="600" height="365">
+
+<img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_3.png" width="600" height="365">
+
+<img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_4.png" width="600" height="365">
+
+<img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_5.png" width="600" height="365">
