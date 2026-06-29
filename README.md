@@ -37,3 +37,6 @@ A csata során a jobb egérgombbal a gép játékos még sértetlen hajóinak he
 
 ## Képernyőképek
 Az alábbi képek a játék néhány fontosabb állapotát mutatják be: a hajók elhelyezését, a csata közbeni megjelenítést és a játék végét.
+
+
+<img src="https://github.com/pythontudasepites/custom_scrollbar/blob/main/custom_scrollbar_1.jpg" width="623" height="327">
