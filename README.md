@@ -1,5 +1,5 @@
 # Torpedó játék
-## A Torpedó (angol nyelvterületen Battleship) a legismertebb táblás játékok egyike, amely számítógépes formában is játszható gépi ellenféllel.
+A Torpedó (angol nyelvterületen Battleship) a legismertebb táblás játékok egyike, amely számítógépes formában is játszható gépi ellenféllel.
 ## A játék használata
 A program a klasszikus Torpedójáték számítógépes változata, amelyben a játékos a számítógéppel mint gépi ellenféllel mérkőzik meg. A játék a hagyományos szabályokat követi: mindkét fél egy 10×10 mezős táblán helyezi el a flottáját, majd felváltva próbálják elsüllyeszteni egymás hajóit.
 
