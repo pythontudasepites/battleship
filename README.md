@@ -39,4 +39,4 @@ A csata során a jobb egérgombbal a gép játékos még sértetlen hajóinak he
 Az alábbi képek a játék néhány fontosabb állapotát mutatják be: a hajók elhelyezését, a csata közbeni megjelenítést és a játék végét.
 
 
-<img src="https://github.com/pythontudasepites/battleship/tree/main/screen_shots/blob/main/battleship_screen_1.jpg" width="623" height="327">
+<img src="https://github.com/pythontudasepites/battleship/blob/main/screen_shots/battleship_screen_1.png" width="623" height="327">
