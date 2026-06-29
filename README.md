@@ -23,9 +23,10 @@ A játék során a jobb oldali táblán kell bal egérgombbal rákattintani arra
 
 A lövés eredménye azonnal megjelenik:
 
-kis fekete pont: a lövés nem talált;
-piros X szürke háttéren: találat érte a hajót, de az még nem süllyedt el;
-fekete mező: a hajó teljes egészében elsüllyedt.
+- kis fekete pont: a lövés nem talált;
+- piros X szürke háttéren: találat érte a hajót, de az még nem süllyedt el;
+- fekete mező: a hajó teljes egészében elsüllyedt.
+
 Az emberi játékos minden lövését automatikusan követi a számítógép válaszlépése, amely a saját táblán jelenik meg ugyanilyen jelölésekkel.
 
 ### A játék vége
